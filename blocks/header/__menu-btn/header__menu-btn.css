@@ -1,0 +1,29 @@
+.header__menu-btn {
+    display: none;
+}
+
+#header__menu-btn:checked~.menu .menu__list-head {
+    max-height: 260px;
+
+
+
+}
+
+
+.header__menu-btn:checked~.header__menu-icon .header__nav-icon {
+    background: transparent;
+}
+
+.header__menu-btn:checked~.header__menu-icon .header__nav-icon::before {
+    transform: rotate(-180deg);
+    transform: scale(0.9);
+    background: rgb(211, 191, 13);
+    top: 0;
+}
+
+.header__menu-btn:checked~.header__menu-icon .header__nav-icon::after {
+    transform: rotate(180deg);
+    transform: scale(1.2);
+    background: rgb(235, 221, 29);
+    top: 0;
+}

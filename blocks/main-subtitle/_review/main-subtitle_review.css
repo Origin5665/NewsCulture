@@ -1,0 +1,14 @@
+.main-subtitle_review {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0 auto;
+
+
+}
+
+@media screen and (max-width: 420px) {
+    .main-subtitle_review {
+        width: 73%;
+        font-size: 13px;
+    }
+}

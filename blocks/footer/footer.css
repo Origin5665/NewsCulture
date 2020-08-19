@@ -1,0 +1,10 @@
+@import url('./__social-container/footer__social-container.css');
+@import url('./__social-logo/footer__social-logo.css');
+@import url('./social-item/footer__social-item.css');
+@import url('./social-list/footer__social-list.css');
+@import url('./__social-link/footer__social-link.css');
+
+.footer {
+    background: #575757;
+    width: 100%;
+}

@@ -1,0 +1,23 @@
+.features__button-link {
+    margin: 0 auto;
+    margin-bottom: 28px;
+    width: 170px;
+    height: 47px;
+    background-color: #FF7931;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #fff;
+    transition: ease-in-out .2s;
+}
+
+.features__button-link:hover {
+    background-color: rgb(209, 78, 7);
+    box-shadow: inherit;
+}

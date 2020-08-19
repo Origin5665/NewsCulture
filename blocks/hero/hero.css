@@ -1,0 +1,13 @@
+@import url('./__container/hero__container.css');
+@import url('./__subtitle/hero__subtitle.css');
+@import url('./__title/hero__title.css');
+
+.hero {
+    background-image: url(../../images/maldivy_tropiki_podvodnyy_otel_82210_3840x2400.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+
+
+}

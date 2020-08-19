@@ -1,0 +1,16 @@
+.features__container {
+    max-width: 707px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-bottom: 58px;
+}
+
+
+
+@media screen and (max-width: 780px) {
+    .features__container {
+        margin-bottom: 0px;
+
+    }
+}

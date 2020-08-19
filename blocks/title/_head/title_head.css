@@ -1,0 +1,42 @@
+.title_head {
+    color: #000000;
+    padding-top: 93px;
+    padding-bottom: 44px;
+    font-weight: 900;
+    font-size: 35px;
+    line-height: 47px;
+}
+
+@media screen and (max-width: 1101px) {
+    .title_head {
+        font-size: 40px;
+        padding-top: 38px;
+        padding-bottom: 30px;
+
+    }
+}
+
+@media screen and (max-width: 1101px) {
+    .title_head {
+        width: 65%;
+        margin: 0 auto;
+
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .title_head {
+        font-size: 28px;
+        padding-top: 30px;
+
+    }
+}
+
+@media screen and (max-width: 365px) {
+    .title_head {
+        font-size: 28px;
+        padding-top: 30px;
+        line-height: 32px;
+
+    }
+}

@@ -1,0 +1,7 @@
+.review__container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 370px);
+    grid-column-gap: 29px;
+    justify-content: center;
+    padding-bottom: 51px;
+}

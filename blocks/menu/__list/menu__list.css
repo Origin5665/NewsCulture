@@ -1,0 +1,18 @@
+@import url('./_foot/menu__list_foot.css');
+@import url('./_head/menu__list_head.css');
+
+.menu__list {
+    display: flex;
+    width: 1440px;
+    max-width: calc(100% - (135px + 135px));
+    justify-content: space-between;
+    padding-bottom: 37px;
+}
+
+
+@media screen and (max-width: 1100px) {
+    .menu__list {
+        padding-bottom: 0;
+        max-width: calc(100% - (60px + 60px));
+    }
+}

@@ -1,0 +1,10 @@
+@import url('./__container/features__container.css');
+@import url('./__button-link/features__button-link.css');
+
+.features {
+    background: #F7F7F7;
+    background-image: url(../../images/Ellipse\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+
+}

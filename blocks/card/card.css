@@ -1,0 +1,17 @@
+@import url('./__image/card__image.css');
+
+.card {
+    display: flex;
+    flex-direction: column;
+}
+
+
+@media screen and (max-width: 1165px) {
+    .card {
+        margin-bottom: 20px;
+    }
+
+    .card:last-child {
+        margin-bottom: 0px;
+    }
+}

@@ -1,0 +1,23 @@
+.main-title {
+    padding-bottom: 11px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 23px;
+    line-height: 31px;
+    margin: 0 auto;
+
+}
+
+/* @media screen and (max-width: 320px) {
+    .main-title {
+        font-size: 23px;
+        margin: 0 auto;
+    }
+} */
+
+@media screen and (max-width: 365px) {
+    .main-title {
+        font-size: 18px;
+        margin: 0 auto;
+    }
+}

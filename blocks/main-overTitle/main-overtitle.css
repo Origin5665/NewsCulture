@@ -1,0 +1,14 @@
+@import url('./_review/main-overtitle_review.css');
+@import url('./_features/main-overtitle_features.css');
+
+.main-overtitle {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #000000;
+    text-transform: uppercase;
+}

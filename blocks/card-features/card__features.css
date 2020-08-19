@@ -1,0 +1,9 @@
+.card-features {
+    text-align: center;
+    padding-bottom: 48px;
+
+}
+
+.card-features:last-child {
+    padding-bottom: 0;
+}

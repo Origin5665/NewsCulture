@@ -1,0 +1,15 @@
+.main-subtitle_features {
+    line-height: 150%;
+    font-size: 13px;
+    width: 52%;
+    margin: 0 auto;
+}
+
+
+
+@media screen and (max-width: 450px) {
+    .main-subtitle_features {
+        width: 82%;
+
+    }
+}

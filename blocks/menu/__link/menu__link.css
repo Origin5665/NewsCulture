@@ -1,0 +1,15 @@
+@import url('./_head/menu__link_head.css');
+@import url('./_foot/menu__link_foot.css');
+
+.menu__link {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 3px;
+    transition: ease .2s;
+}
+
+.menu__link:hover {
+    color: rgb(168, 132, 32);
+}

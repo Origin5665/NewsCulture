@@ -1,0 +1,55 @@
+.header__menu-icon {
+    padding: 23px 20px;
+    position: relative;
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    margin-right: 30px;
+    border: 5px solid rgba(0, 0, 0, 0.712);
+
+}
+
+@media screen and (min-width:1101px) {
+
+    .header__menu-icon {
+        display: none;
+    }
+
+
+}
+
+@media screen and (max-width:1101px) {
+
+    .header__menu-icon {
+        position: absolute;
+        top: 7px;
+        right: 5px;
+        padding: 10px 5px;
+        margin-top: 38px;
+    }
+
+
+
+}
+
+@media screen and (max-width:605px) {
+
+    .header__menu-icon {
+
+        top: 30px;
+
+    }
+
+
+}
+
+@media screen and (max-width:365px) {
+
+    .header__menu-icon {
+
+        top: 12px;
+
+    }
+
+
+}

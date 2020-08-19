@@ -1,0 +1,11 @@
+@import url('./_foot/title_foot.css');
+@import url('./_head/title_head.css');
+
+.title {
+    font-family: 'Playfair Display', serif;
+
+    letter-spacing: 1px;
+
+    text-align: center;
+
+}
